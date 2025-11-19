@@ -68,10 +68,19 @@ header nav ul li a:hover {
   justify-content: center;
   align-items: center;
   text-align: center;
+  background-image: url(nextsolutech\ logo.jpg);
+}
+#hero .pt {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+#hero .pt2 {
+  font-size: 20px;
+  margin-bottom: 30px;
 }
 #hero .btns .btn {
-  background: white;
-  color: #1E90FF;
+  background: #1E90FF;
+  color: #fff;
   padding: 12px 25px;
   margin: 10px;
   border-radius: 5px;
@@ -79,8 +88,8 @@ header nav ul li a:hover {
   transition: 0.3s;
 }
 #hero .btns .btn:hover {
-  background: #222;
-  color: white;
+  background: #fff;
+  color: #000;
 }
 
 /* Sections */
